@@ -1,6 +1,4 @@
-
-# Array Bootcamp
-**Övningar för att lära sig Arrayer.**
+![poster](poster.png)
 
 ## The Basics
 
