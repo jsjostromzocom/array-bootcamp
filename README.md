@@ -1,3 +1,4 @@
+
 # Array Bootcamp
 **Övningar för att lära sig Arrayer.**
 
@@ -17,6 +18,20 @@ let animals = ['cat', 'hamster', 'parrot', 'funky chihuahua']
 5. I arrayen ovan, hämta *funky chihuahua*.
 
 6. I arrayen ovan, byt ut *hamster* mot *tiger*.
+
+```js
+let a = [1,2,3];
+let b = [4,5,6];
+```
+
+7. Lägg ihop ovanstående arrayer.
+
+```js
+let a = [1,2,3,7,8,9];
+let b = [4,5,6];
+```
+
+8. Merga ner array ```b``` på index ```3``` array ```a```.
 
 
 ## Methods
@@ -51,7 +66,7 @@ let nums = [1,2,3,4,5,6,7,8,9];
 
 
 ## Advanced methods ( high order methods )
-### filter()
+### .filter()
 ```js
 let numArray = [23, 45, 5, 62, 1, 21, 3, 54];
 ```
@@ -94,7 +109,7 @@ let persons = [
 18. Skriv ut alla namn som är *under 18 år* från arrayen ovan.
 
 
-### sort()
+### .sort()
 ```js
 let arr = ['beta', 'alfa', 'gamma'];
 ```
@@ -114,6 +129,23 @@ let nums = [1,5,7,9,3,4,2,6,8];
 
 23. I person-arrayen ovan, sortera objekten i bokstavsordning efter deras namn
 
+
+### .map()
+
 24. I person-arrayen ovan, gör om alla namn till *versaler*.
+
+25. I person-arrayen ovan, *spegelvänd* alla namn.
+
+
+### .include()
+
+```js
+let str = 'Supercalifragilisticexpialidocious';
+```
+
+26. Kika om strängen ovan innehåller bokstaven ```n```.
+
+27. Kika om strängen ovan innehåller bokstaven ```x```.
+
 
 ## Loop arrays
