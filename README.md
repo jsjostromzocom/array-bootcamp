@@ -168,3 +168,11 @@ let fruits = ['apelsin', 'päron', 'äpple', 'kiwi'];
 35. Loopa ut följande array med en ```for of```-loop. ```console.log()``` varje ord.
 
 36. Loopa ut följande array med en ```for```-loop. ```console.log()``` varje ord.
+
+37. Loopa ut följande array. För varje varv i loopen ska du också skriva ut index. ex: 
+
+```
+0 - apelsin
+1 - päron
+...
+```
