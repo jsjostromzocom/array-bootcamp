@@ -79,11 +79,11 @@ let str = 'Supercalifragilisticexpialidocious';
 
 19. Kika om strängen ovan innehåller bokstaven ```x```.
 
-I ovanstående array, hitta vilket *position* första förekomsten av ```p``` har.
+20. I ovanstående array, hitta vilket *position* första förekomsten av ```p``` har.
 
-I strängen ovan, plocka fram de ```5``` *första* tecknena.
+21. I strängen ovan, plocka fram de ```5``` *första* tecknena.
 
-I strängen ovan, plocka fram de ```7``` *sista* tecknena.
+22. I strängen ovan, plocka fram de ```7``` *sista* tecknena.
 
 
 ## Advanced methods ( high order methods )
@@ -91,9 +91,9 @@ I strängen ovan, plocka fram de ```7``` *sista* tecknena.
 ```js
 let numArray = [23, 45, 5, 62, 1, 21, 3, 54];
 ```
-20. I arrayen ovan, filtera fram alla nummer *över* ```5```.
+23. I arrayen ovan, filtera fram alla nummer *över* ```5```.
 
-21. I arrayen ovan, filtera fram alla nummer *under* ```5```.
+24. I arrayen ovan, filtera fram alla nummer *under* ```5```.
 
 ```js
 let persons = [
@@ -125,9 +125,9 @@ let persons = [
 ```
 
 
-22. Skriv ut alla namn som *är 18 år eller över* från arrayen ovan.
+25. Skriv ut alla namn som *är 18 år eller över* från arrayen ovan.
 
-23. Skriv ut alla namn som är *under 18 år* från arrayen ovan.
+26. Skriv ut alla namn som är *under 18 år* från arrayen ovan.
 
 
 ### .sort()
@@ -135,26 +135,26 @@ let persons = [
 let arr = ['beta', 'alfa', 'gamma'];
 ```
 
-24. Sortera ovanstående array *alfabetisk*.
+27. Sortera ovanstående array *alfabetisk*.
 
 ```js 
 let nums = [1,5,7,9,3,4,2,6,8];
 ```
-25. Sortera ovanstående array *numeriskt*.
+28. Sortera ovanstående array *numeriskt*.
 
-26. I person-arrayen ovan, sortera objekten efter ålder, *yngst* först.
+29. I person-arrayen ovan, sortera objekten efter ålder, *yngst* först.
 
-27. I person-arrayen ovan, sortera objekten efter ålder, *äldst* först.
+30. I person-arrayen ovan, sortera objekten efter ålder, *äldst* först.
 
 
-28. I person-arrayen ovan, sortera objekten i bokstavsordning efter deras namn
+31. I person-arrayen ovan, sortera objekten i bokstavsordning efter deras namn
 
 
 ### .map()
 
-29. I person-arrayen ovan, gör om alla namn till *versaler*.
+32. I person-arrayen ovan, gör om alla namn till *versaler*.
 
-30. I person-arrayen ovan, *spegelvänd* alla namn.
+33. I person-arrayen ovan, *spegelvänd* alla namn.
 
 
 ## Loop arrays
@@ -163,8 +163,8 @@ let nums = [1,5,7,9,3,4,2,6,8];
 let fruits = ['apelsin', 'päron', 'äpple', 'kiwi'];
 ```
 
-31. Loopa ut följande array med en ```forEach()```-loop. ```console.log()``` varje ord.
+34. Loopa ut följande array med en ```forEach()```-loop. ```console.log()``` varje ord.
 
-32. Loopa ut följande array med en ```for of```-loop. ```console.log()``` varje ord.
+35. Loopa ut följande array med en ```for of```-loop. ```console.log()``` varje ord.
 
-33. Loopa ut följande array med en ```for```-loop. ```console.log()``` varje ord.
+36. Loopa ut följande array med en ```for```-loop. ```console.log()``` varje ord.
